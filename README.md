@@ -8,7 +8,7 @@ I build data projects focused on business insights, dashboards, and automation.
 📊 Portfolio: https://github.com/analyst-muneeza/muneeza-data-portfolio  
 
 🎓 Certificate:  
-https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates  
+https://github.com/analyst-muneeza/muneeza-resume/blob/main/Certificates/Muneeza_Data_Analyst_Certificate.pdf
 
 🔗 LinkedIn: https://linkedin.com/in/muneezaali-/
 

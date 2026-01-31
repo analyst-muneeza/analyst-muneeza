@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Muneeza 👋  
 
-<!--
-**analyst-muneeza/analyst-muneeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, Power BI & Tableau.  
+I build data projects focused on business insights, dashboards, and automation.
 
-Here are some ideas to get you started:
+📄 Resume: https://github.com/analyst-muneeza/muneeza-resume  
+📊 Portfolio: https://github.com/analyst-muneeza/muneeza-data-portfolio  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Certificate:  
+https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates  
+
+🔗 LinkedIn: https://linkedin.com/in/muneezaali-/
+

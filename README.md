@@ -1,6 +1,6 @@
 ## Hi, I'm Muneeza 👋  
 
-Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, Power BI & Tableau.  
+Data Analyst Intern with hands-on experience in Python, SQL, Excel, Power BI & Tableau.  
 I build data projects focused on business insights, dashboards, and automation.
 
 📄 Resume: https://github.com/analyst-muneeza/muneeza-resume/blob/main/Muneeza_Intern_CV.pdf

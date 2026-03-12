@@ -18,3 +18,5 @@ https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates
 🔗 **LinkedIn**
 https://linkedin.com/in/muneezaali-/
 
+Skills: Python | SQL | Excel | Power BI | Tableau | Data Cleaning | EDA | Dashboarding
+

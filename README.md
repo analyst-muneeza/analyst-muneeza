@@ -1,27 +1,20 @@
-## Hi, I'm Muneeza 👋  
+# Hi, I'm Muneeza 👋
 
-Data Analyst Intern with hands-on experience in Python, SQL, Excel, Power BI & Tableau.  
-I build data projects focused on business insights, dashboards, and automation.
+**Data Analyst** Intern with hands-on experience in **Python, SQL, Excel, Power BI, and Tableau**.
+I enjoy transforming raw data into meaningful insights through dashboards, data analysis, and business reporting.
 
-📄 Resume: https://github.com/analyst-muneeza/muneeza-resume/raw/main/Muneeza_Data_Analyst_Resume.pdf
- 
-📊 Portfolio: https://github.com/analyst-muneeza/muneeza-data-portfolio  
+📄 **Resume**
+https://github.com/analyst-muneeza/muneeza-resume/raw/main/Muneeza_Data_Analyst_Resume.pdf
 
-📊 Presentations: https://github.com/analyst-muneeza/muneeza-presentations
+📊 **Data Analytics Portfolio**
+https://github.com/analyst-muneeza/muneeza-data-portfolio
 
-🎓 Certificates:
-Data Analytics Live Program - CloudyML  
-https://github.com/analyst-muneeza/muneeza-resume/blob/main/Certificates/Muneeza_Data_Analyst_Certificate.pdf
+📑 **Project Presentations**
+https://github.com/analyst-muneeza/muneeza-presentations
 
-Google Certificate 
-https://github.com/analyst-muneeza/muneeza-resume/blob/main/Certificates/Google%20Analytics%20Certificate.jpeg
+🎓 **Certificates**
+https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates
 
-Microsoft Certificate
-https://github.com/analyst-muneeza/muneeza-resume/blob/main/Certificates/Microsoft_certificate.pdf
-
-Deloitte Certificate
-https://github.com/analyst-muneeza/muneeza-resume/blob/main/Certificates/Deloitte%20Certificate.pdf
-
-
-🔗 LinkedIn: https://linkedin.com/in/muneezaali-/
+🔗 **LinkedIn**
+https://linkedin.com/in/muneezaali-/
 

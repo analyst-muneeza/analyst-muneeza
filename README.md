@@ -12,6 +12,9 @@ https://github.com/analyst-muneeza/muneeza-data-portfolio
 📑 **Project Presentations**
 https://github.com/analyst-muneeza/muneeza-presentations
 
+📊 **Excelerate Internship (Data Analysis Projects):** 
+https://github.com/analyst-muneeza/excelerate-internship
+
 🎓 **Certificates**
 https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates
 

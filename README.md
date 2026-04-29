@@ -1,6 +1,6 @@
 # Hi, I'm Muneeza 👋
 
-**Data Analyst** Intern with hands-on experience in **Python, SQL, Excel, Power BI, and Tableau**.
+**Data Analyst** with hands-on experience in **Python, SQL, Excel, Power BI, and Tableau**.
 I enjoy transforming raw data into meaningful insights through dashboards, data analysis, and business reporting.
 
 📄 **Resume**

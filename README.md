@@ -15,6 +15,9 @@ https://github.com/analyst-muneeza/muneeza-presentations
 📊 **Excelerate Internship (Data Analysis Projects):** 
 https://github.com/analyst-muneeza/excelerate-internship
 
+📊 **CodeAlpha Internship Projects:**
+https://github.com/analyst-muneeza/codealpha-internship
+
 🎓 **Certificates**
 https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates
 

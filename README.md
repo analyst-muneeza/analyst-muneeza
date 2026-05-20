@@ -6,10 +6,10 @@ I enjoy transforming raw data into meaningful insights through dashboards, data 
 📄 **Resume**
 https://github.com/analyst-muneeza/muneeza-resume/raw/main/Muneeza_Data_Analyst_Resume.pdf
 
-📊 **Data Analytics Portfolio**
+📈 **Data Analytics Portfolio**
 https://github.com/analyst-muneeza/muneeza-data-portfolio
 
-📑 **Project Presentations**
+🖥️ **Project Presentations**
 https://github.com/analyst-muneeza/muneeza-presentations
 
 📊 **Excelerate Internship (Data Analysis Projects):** 
@@ -17,6 +17,9 @@ https://github.com/analyst-muneeza/excelerate-internship
 
 📊 **CodeAlpha Internship Projects:**
 https://github.com/analyst-muneeza/codealpha-internship
+
+📊 **cognifyz-business-analytics-internship**
+https://github.com/analyst-muneeza/cognifyz-business-analytics-internship
 
 🎓 **Certificates**
 https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates

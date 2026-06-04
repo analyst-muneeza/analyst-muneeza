@@ -12,14 +12,17 @@ https://github.com/analyst-muneeza/muneeza-data-portfolio
 🖥️ **Project Presentations**
 https://github.com/analyst-muneeza/muneeza-presentations
 
-📊 **Excelerate Internship (Data Analysis Projects):** 
+📊 **Excelerate Data Analyst Associate Internship** 
 https://github.com/analyst-muneeza/excelerate-internship
 
-📊 **CodeAlpha Internship Projects:**
+📊 **CodeAlpha Data Analytics Internship**
 https://github.com/analyst-muneeza/codealpha-internship
 
-📊 **cognifyz-business-analytics-internship**
+📊 **Cognifyz Business Analytics internship**
 https://github.com/analyst-muneeza/cognifyz-business-analytics-internship
+
+📊 **Saiket Systems Business Analysis Internship**
+https://github.com/analyst-muneeza/Saiket-Systems-Business-Analysis-Internship
 
 🎓 **Certificates**
 https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates
@@ -27,5 +30,4 @@ https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates
 🔗 **LinkedIn**
 https://linkedin.com/in/muneezaali-/
 
-Skills: Python | SQL | Excel | Power BI | Tableau | Data Cleaning | EDA | Dashboarding
-
+Skills: Python | SQL | Excel | Power BI | Tableau | Data Cleaning | EDA | Data Visualization | Business Analysis

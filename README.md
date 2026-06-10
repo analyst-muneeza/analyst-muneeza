@@ -30,6 +30,9 @@ https://github.com/analyst-muneeza/Saiket-Systems-Business-Analysis-Internship
 📊 **Oasis Infobyte Data Analytics Internship**
 https://github.com/analyst-muneeza/Oasis-Infobyte-Data-Analytics-Internship
 
+📊 **Codveda Technologies Internship**
+https://github.com/analyst-muneeza/Codveda-Technologies-Internship
+
 🎓 **Certificates**
 https://github.com/analyst-muneeza/muneeza-resume/tree/main/Certificates
 

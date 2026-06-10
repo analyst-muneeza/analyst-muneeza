@@ -27,7 +27,7 @@ https://github.com/analyst-muneeza/cognifyz-business-analytics-internship
 📊 **Saiket Systems Business Analysis Internship**
 https://github.com/analyst-muneeza/Saiket-Systems-Business-Analysis-Internship
 
-📊 Oasis Infobyte Data Analytics Internship  
+📊 **Oasis Infobyte Data Analytics Internship**
 https://github.com/analyst-muneeza/Oasis-Infobyte-Data-Analytics-Internship
 
 🎓 **Certificates**

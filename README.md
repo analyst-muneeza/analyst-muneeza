@@ -9,8 +9,11 @@ https://github.com/analyst-muneeza/muneeza-resume/raw/main/Muneeza_Data_Analyst_
 📈 **Data Analytics Portfolio**
 https://github.com/analyst-muneeza/muneeza-data-portfolio
 
-🏦 **Bank Employee Attrition Analysis**
+🏦 **Bank Employee Attrition Analysis Project**
 https://github.com/analyst-muneeza/Bank-Employee-Attrition-Analysis
+
+🎓 **B2B EdTech Lead Analytics Project**
+https://github.com/analyst-muneeza/B2B-EdTech-Lead-Analytics-Project
 
 🖥️ **Project Presentations**
 https://github.com/analyst-muneeza/muneeza-presentations

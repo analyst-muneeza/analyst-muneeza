@@ -1,4 +1,4 @@
-# Hi, I'm Muneeza 👋
+# Hi, I'm Muneeza Ali 👋
 
 **Data Analyst** with hands-on experience in **Python, SQL, Excel, Power BI, and Tableau**.
 I enjoy transforming raw data into meaningful insights through dashboards, data analysis, and business reporting.

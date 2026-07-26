@@ -4,7 +4,7 @@
 I enjoy transforming raw data into meaningful insights through dashboards, data analysis, and business reporting.
 
 📄 **Resume**
-https://github.com/analyst-muneeza/muneeza-resume/raw/main/Muneeza_Resume.pdf
+https://raw.githubusercontent.com/analyst-muneeza/muneeza-resume/main/Muneeza_Ali_Resume.pdf
 
 📈 **Data Analytics Portfolio**
 https://github.com/analyst-muneeza/muneeza-data-portfolio
